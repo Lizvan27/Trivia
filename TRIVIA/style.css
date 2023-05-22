@@ -1,0 +1,33 @@
+body{
+    background: black;
+    padding: 50px;
+}
+header{
+    background: burlywood;
+    text-align: center;
+}
+section{
+    background: cadetblue;
+    font-size: 20px;
+    /**display: none;**/
+
+}
+#respuestas{
+    text-align: center;
+    background: white;
+}
+label{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: inline-block;
+    cursor: pointer;
+    color: blue;
+    position: relative;
+    padding: 5px 15px 5px 51px;
+    font-size: 1em;
+    border-radius: 5px;
+}
+footer{
+    background: yellowgreen;
+}
+
